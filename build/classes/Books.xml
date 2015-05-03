@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+    <bookId>1</bookId>
+    <name>La Vida de Pi</name>
+    <author>Yann Martel</author>
+    <editorial>Santillana</editorial>
+    <available>1</available>
+  </book>
+  <book>
+    <bookId>2</bookId>
+    <name>The Shining</name>
+    <author>Stephen King</author>
+    <editorial>DeBolsillo</editorial>
+    <available>1</available>
+  </book>
+  <book>
+    <bookId>3</bookId>
+    <name>Programando en C</name>
+    <author>Pedro Badilla</author>
+    <editorial>Editorial UCR</editorial>
+    <available>1</available>
+  </book>
+</books>

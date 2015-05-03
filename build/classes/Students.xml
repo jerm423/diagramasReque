@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<students>
+	<student>
+		<studentId>2013014471</studentId>
+		<name>Joseph</name>
+		<lastname>Ramirez</lastname>
+	</student>
+	<student>
+		<studentId>1</studentId>
+		<name>Jose</name>
+		<lastname>Vargas</lastname>
+	</student>
+	<student>
+		<studentId>2</studentId>
+		<name>Grettel</name>
+		<lastname>Moreno</lastname>
+	</student>
+	<student>
+		<studentId>3</studentId>
+		<name>Stephanie</name>
+		<lastname>Araya</lastname>
+	</student>
+	<student>
+		<studentId>4</studentId>
+		<name>Angie</name>
+		<lastname>Ramirez</lastname>
+	</student>
+</students>
